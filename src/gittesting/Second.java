@@ -1,5 +1,5 @@
 package gittesting;
 
 public class Second {
-//second committtttt
+//second committttttt
 }
