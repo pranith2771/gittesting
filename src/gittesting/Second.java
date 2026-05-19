@@ -7,4 +7,4 @@ public class Second {
 //second committt
 >>>>>>> branch 'master' of https://github.com/pranith2771/gittesting.git
 }
-//dgfwebvjjhfdfbhghgjgfhgfhgfhgfh
+//dgfwebvjjhfdfbhghgjgfhgfhgfhgfh hgello how are you
