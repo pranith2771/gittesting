@@ -6,7 +6,7 @@ public class GitTest {
 <<<<<<< HEAD
 	//first commitgnhtrhj
 =======
-	//first commit newwferg
+	//first commit newwfergfdgdf
 >>>>>>> branch 'master' of https://github.com/pranith2771/gittesting.git
 
 	}
